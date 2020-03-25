@@ -1,0 +1,27 @@
+.body{
+    margin: 0px;
+    }
+    
+    header{
+        margin: 0px;
+        text-align: center;
+        display: inline-block;
+    
+    }
+    header figure{
+        margin: 0px;
+        text-align: center;
+        display: inline-block;
+    }
+    h1{
+        margin: 0px;
+        text-align: center;
+        display: inline-block;
+    }
+   body header section{
+        margin: 0px;
+        text-align: center;
+        display: inline-flex;
+        margin-left: 60%;
+       
+    }
